@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SnapFactory_v4/google/analytics/analytics.iml" filepath="$PROJECT_DIR$/../SnapFactory_v4/google/analytics/analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendar.iml" filepath="$PROJECT_DIR$/calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnapFactory_v4/google/dfa/dfa.iml" filepath="$PROJECT_DIR$/../SnapFactory_v4/google/dfa/dfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SnapFactory_v4/google/google.iml" filepath="$PROJECT_DIR$/../SnapFactory_v4/google/google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
+

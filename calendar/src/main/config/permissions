@@ -1,0 +1,25 @@
+# This is how you add comments in this file
+com.snaplogic.snaps.vish_test_snap.DocGenerator {
+    allow java.security.AllPermission;
+}
+com.snaplogic.snaps.vish_test_snap.DocConsumer {
+    allow java.security.AllPermission;
+}
+com.snaplogic.snaps.vish_test_snap.PropertyTypes {
+    allow java.security.AllPermission;
+}
+com.snaplogic.snaps.vish_test_snap.SchemaExample {
+    allow java.security.AllPermission;
+}
+com.snaplogic.snaps.vish_test_snap.SingleDocGenerator {
+    allow java.security.AllPermission;
+}
+com.snaplogic.snaps.vish_test_snap.Suggest {
+    allow java.security.AllPermission;
+}
+com.snaplogic.snaps.vish_test_snap.TwoInputs {
+    allow java.security.AllPermission;
+}
+com.snaplogic.snaps.vish_test_snap.TwoInputsTwoOutputs {
+    allow java.security.AllPermission;
+}
